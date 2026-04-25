@@ -40,7 +40,19 @@ If you have ideas to make this more stable, lightweight, or reproducible — ple
 - Simplifying the setup process.
 - Testing on a wider range of Android devices.
 
----
+------
+
+### 📜 License & Credits
+
+This guide is licensed under the MIT License.
+
+Qwen3-TTS model is owned by Alibaba Cloud / Qwen, released under Apache 2.0.
+
+Qwen-TTS-WebUI is created by licyk and licensed under GPL-3.0. This project only references it via git clone. All rights belong to the original author.
+
+ZeroTermux / Termux are licensed under GPL-3.0.
+
+Other dependencies (PyTorch, Gradio, Transformers, etc.) are property of their respective owners, under BSD or Apache 2.0 licenses.
 
 ## License
 
@@ -141,3 +153,16 @@ zerotermux：https://github.com/hanxinhao000/ZeroTermux
 
 22.python launch.py --modelscope（启动WebUI，模型从国内源下载）
 希望大佬们给出优化方案
+------
+
+### 📜 许可证与鸣谢
+
+本项目的安装指南和文档采用 MIT 许可证。
+
+Qwen3-TTS 模型版权归阿里云/Qwen 所有，采用 Apache 2.0 许可证。
+
+Qwen-TTS-WebUI 由开发者 licyk 创建，采用 GPL-3.0 许可证，本项目仅通过 git clone 方式引用，所有权利归原作者。
+
+ZeroTermux / Termux 均采用 GPL-3.0 许可证。
+
+其他第三方库（PyTorch、Gradio、Transformers等）均归各自所有者，采用 BSD 或 Apache 2.0 许可证。
